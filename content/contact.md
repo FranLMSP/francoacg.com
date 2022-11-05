@@ -3,7 +3,8 @@ title: "Contact"
 draft: false
 ---
 
-My preferred way would be email since it's the one that I check more frequently. However, you can also contact me through XMPP or Matrix.
+My preferred way would be email since it's the one that I check more frequently.
+However, you can also contact me through XMPP or Matrix.
 
 You can also find me on Github, Gitlab and Linkedin.
 

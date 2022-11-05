@@ -1,0 +1,42 @@
+<div>
+<h2>{{ .Get "title" }}</h2>
+<br/>
+<div style="display: flex; flex-wrap: wrap">
+<div class="app-description" style="padding-right: 20px">
+{{ .Inner }}
+</div>
+<div class="app-image">
+{{ $imgqty := $.Get "imgqty" }}
+{{ range $i := (seq 1 $imgqty) }}
+<img src="{{ $.Get `folder` }}{{ $i }}.png" class="appimg"/>
+{{ end }}
+</div>
+</div>
+</div>
+
+<style>
+
+.appimg {
+  height: 200px;
+  display: inline-block;
+  max-width: 100%;
+}
+
+.app-description {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .app-description {
+    width: 50%;
+  }
+}
+
+.app-image {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .app-image {
+    width: 50%;
+  }
+}
+</style>

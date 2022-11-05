@@ -1,0 +1,14 @@
+<div style="display: inline-block; width: 16rem; margin: 1rem;">
+  <a style="text-decoration: none" href="{{.Get `slug`}}">
+    <img
+      src="/img/portfolio/thumbnails/{{.Get `thumbnail`}}"
+      style="width: 100%; max-width: 100%; height: auto; display: block"
+    />
+    <div>
+      <h3>
+        {{.Get "title"}}
+      </h3>
+      <p>{{.Get "description"}}</p>
+    </div>
+  </a>
+</div>

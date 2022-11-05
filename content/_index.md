@@ -7,10 +7,10 @@ draft: false
 Hello! I'm Franco. Welcome to my Website!
 
 I work as a software developer (mostly web development in the backend) and in my spare times I like to do random stuff with technology and programming in general,
-such as developing personal projects (console emulators, basic prototype games, Flutter appls, this website, etc),
+such as developing personal projects (console emulators, basic prototype games, Flutter apps, this website, etc),
 deploying services to my personal server (an email server, chat services such as XMPP or Matrix, Gitea, Searx, etc),
-setting up or "ricing" the operating systems that I use (I use Artix btw),
-messing around with my Raspberry Pi,
+setting up or "ricing" the operating systems that I use,
+mess around with my Raspberry Pi,
 and more.
 
 Originally, this website [francoacg.com](https://francoacg.com) was built with Vue.js and Tailwind, but I decided to re-create it in a more minimal way using [HUGO](https://gohugo.io) instead.
