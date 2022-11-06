@@ -11,21 +11,48 @@ I currently work as a backend and frontend software developer.
 
 ## Experience
 
-* 2017 - 2017: Dago
-* 2017 - 2017: Dago
+![Aleli](/img/logos/aleli.jpg "Aleli")
+![Dago](/img/logos/dago.png "Dago")
 
+* 3+ years working remotely at Aleli (Paraguay), as Backend developer (PHP, Laravel, Codeigniter, Docker),
+  Frontend developer (Javascript & jQuery, Vue, Svelte) and Mobile developer (Flutter, React Native),
+  making management systems and mobile apps for inventory, clients, employees, incomes and outcomes,
+  products, etc. 
+* Five months working on-site at Importadora Dago C.A. at San Antonio de Los Altos, Miranda,
+  Venezuela as Backend and Frontend developer (The company's backend PHP framework, Laravel,
+  Javascript & jQuery, Bootstrap, MaterializeCSS, PostgreSQL), developing management systems
+  and weight systems machines for other companies. 
+* Three months working remotely as contractor at Amaya Editing, Canada, as Backend and Frontend
+  developer (PHP, Laravel, Vue.js, API endpoints) doing integrations with Shopify API and Astro Loyalty,
+  creating Artisan commands and doing Unit Testing. 
 
 ## Studies
 
-* 2020: Platzi
+![IUT](/img/logos/iut.jpg "IUT")
+![Platzi](/img/logos/platzi.png "Platzi")
+
+* Graduated from the Liceo San José High School in the Data Proccessing (programming) area.
+* Graduated as University Superior Technician at the Instituto Universitario de Tecnología - Federico Rivero Palacio (Distrito Capital) college.
+* Certifications at online courses like Platzi of Backend, Node.js, Docker, Regular Expresions, Javascript, Git and Github, Linux, Bash commands, etc.
+* Constant self-taught education.
 
 ## Personal
 
-* Personal achievements
+![ACPICPC](/img/logos/acmicpc.jpeg "ACMICPC")
 
-## Knowledge
+* [ACM-ICPC 2016](https://icpc.baylor.edu/) Coding marathon done at Universidad Central de Venezuela (UCV) or Central College of Venezuela
+* Challenges at Codewars
+* Developing game prototypes with C++ & SDL and Javascript with Canvas.
+* Projects at the college and personal projects (CRUD's, games, etc)
+* Actively helping to other developers with their issues at programming groups
 
-Here are some topics that I have experience with or knowledge about:
-
-* test
-
+{{< rawhtml >}}
+<style>
+img {
+  display: block;
+  max-height: 200px;
+  margin: auto;
+  position: relative;
+}
+</style>
+{{< /rawhtml >}}
