@@ -3,10 +3,11 @@ languageCode = 'en-us'
 title = "Franco's website"
 theme = 'etch'
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  ordered = true
 
 [menu]
   [[menu.main]]

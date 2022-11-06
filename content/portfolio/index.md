@@ -1,6 +1,7 @@
 ---
 title: "Portfolio"
 draft: false
+hideposts: true
 ---
 
 Here is a list of some of the project I have worked on. Some projects here were omitted,
