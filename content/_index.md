@@ -1,7 +1,7 @@
 ---
 title: "Franco Colmenarez"
-date: 2022-10-10T10:12:06-05:00
 draft: false
+hideposts: true
 ---
 
 Hello! I'm Franco. Welcome to my Website!

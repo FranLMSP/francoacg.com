@@ -24,8 +24,3 @@ theme = 'etch'
     name = "Contact"
     url = "/contact"
 
-  [[menu.main]]
-    identifier = "resume"
-    name = "Resume"
-    url = "/resume"
-

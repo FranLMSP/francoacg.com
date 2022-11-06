@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-draft: false
+draft: true
 ---
 
 [Click here to download](/resume.pdf)
